@@ -39,16 +39,16 @@ window.addEventListener("load", () => {
 // --- Reproductor ---
 const songs = [
   {
-    title: "Total Eclipse of the Heart",
-    file: "./music/eclipse.mp3",
+    title: "aun",
+    file: "./music/Frank Sinatra with Gordon Jenkins Orchestra - I'm a Fool to Want You - 60otaku4.mp3",
   },
   {
-    title: "La Isla Bonita",
-    file: "./music/islabonita.mp3",
+    title: "dejaste",
+    file: "./music/turn.mp3",
   },
   {
-    title: "I Will Survive",
-    file: "./music/survive.mp3",
+    title: "algo en mi",
+    file: "./music/my angel.mp3",
   },
 ];
 
