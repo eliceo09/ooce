@@ -5,12 +5,11 @@
 
   // lista de flores (pone tus rutas reales)
   const flowers = [
-    "./img/amapolas.png",
+    "/img/amapolas.png",
     "/img/fBlancas.png",
     "/img/fNegra.png",
     "/img/rosasnegras.png",
-    "/img/images.png",
-    "/img/favicon.png",
+    "/img/rosas.png",
   ];
 
   const poemas = [
@@ -27,8 +26,7 @@
     "Si pudiera tomar tus pensamientos, los guardaría junto a los míos. Te extraño en cada esquina, te deseo en cada respiración. Y aunque el miedo intente frenarnos, mi corazón no deja de quererte.",
     "Cada vez que tu nombre cruza mi mente, el mundo se vuelve más intenso y peligroso. Quiero perderme en tus susurros, que me roben la calma, que me dejen desnudo de certezas y lleno de ti.",
     "Tus silencios me enloquecen más que tus palabras. Cada gesto tuyo prende fuego a mis pensamientos, y no hay distancia que apague la urgencia de buscarte, de sentirte, de fundirnos en este deseo que nos quema.",
-];
-
+  ];
 
   let lastPoem = null;
 
