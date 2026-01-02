@@ -52,8 +52,16 @@
         },
         {
           question: "que me gustaria que nunca dudes de mi?",
-          options: ["de mis ganas por ti", "de cuanto me importas", "de mis sentimientos"],
-          correct: ["de mis ganas por ti", "de cuanto me importas", "de mis sentimientos"],
+          options: [
+            "de mis ganas por ti",
+            "de cuanto me importas",
+            "de mis sentimientos",
+          ],
+          correct: [
+            "de mis ganas por ti",
+            "de cuanto me importas",
+            "de mis sentimientos",
+          ],
         },
         {
           question: "que cosa tuya me desarma rapido?",
@@ -157,7 +165,7 @@
         reactionBox.classList.remove("d-none");
         reactionContent.innerHTML = "";
 
-        if (selected === "si obvi" || selected === "tal vez") {
+        if (selected === "no se" || selected === "tal vez") {
           reactionContent.innerHTML = `
             <div class="fade-in">
               <p class="mb-2 fs-6">hacelo de nuevo y te dejo sin caminar ❤️‍🔥</p>
