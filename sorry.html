@@ -42,32 +42,36 @@
     <script>
       const trivia = [
         {
-          question: "como te sentis conmigo?",
-          options: ["mal", "comoda", "bien", "adoro todo de ti"],
-          correct: "",
-        },
-        {
-          question: "sale siesta juntos?",
-          options: ["si obvi", "nop"],
-          correct: "si obvi",
-        },
-        {
-          question: "que me gusta mas de ti",
+          question: "cual fue el momento mas tranquilo contigo?",
           options: [
-            "tu risa",
-            "tus besos, me encantan",
-            "tu pensamiento del amor",
+            "La cita a manantial",
+            "mi cumpleaños",
+            "la salida a tomar helado",
+          ],
+          correct: "La cita a manantial",
+        },
+        {
+          question: "que me gustaria que nunca dudes de mi?",
+          options: ["de mis ganas por ti", "de cuanto me importas", "de mis sentimientos"],
+          correct: ["de mis ganas por ti", "de cuanto me importas", "de mis sentimientos"],
+        },
+        {
+          question: "que cosa tuya me desarma rapido?",
+          options: [
+            "tu cuerpo",
+            "tus besos",
+            "como me miras cuando sabes exactamente lo que quiero",
           ],
           correct: [
-            "tu risa",
-            "tus besos, me encantan",
-            "tu pensamiento del amor",
+            "tu cuerpo",
+            "tus besos",
+            "como me miras cuando sabes exactamente lo que quiero",
           ],
         },
         {
-          question: "Tenes hambre después de verme?",
-          options: ["si obvi", " nop", "tal vez"],
-          correct: "si obvi",
+          question: "si me provocas que piensas que voy a hacer?",
+          options: ["poner me nervioso", " reir", "no se"],
+          correct: "no se",
         },
       ];
 
@@ -156,7 +160,7 @@
         if (selected === "si obvi" || selected === "tal vez") {
           reactionContent.innerHTML = `
             <div class="fade-in">
-              <p class="mb-2 fs-6">bueno veni de devorame de nuevo 7w7</p>
+              <p class="mb-2 fs-6">hacelo de nuevo y te dejo sin caminar ❤️‍🔥</p>
               <img src="/img/kissmebottom.png"
                    alt="Ben Porel"
                    class="img-fluid rounded shadow-sm"

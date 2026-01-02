@@ -39,16 +39,16 @@ window.addEventListener("load", () => {
 // --- Reproductor ---
 const songs = [
   {
-    title: "aun",
-    file: "./music/Frank Sinatra with Gordon Jenkins Orchestra - I'm a Fool to Want You - 60otaku4.mp3",
+    title: "estas canciones me recuerdan a ti",
+    file: "./music/been.mp3",
   },
   {
-    title: "dejaste",
-    file: "./music/turn.mp3",
+    title: "esta t la dedico a ti",
+    file: "./music/a kiss.mp3",
   },
   {
-    title: "algo en mi",
-    file: "./music/my angel.mp3",
+    title: "esta siempre me recuerda esa tarde en manantial",
+    file: "./music/love.mp3",
   },
 ];
 
