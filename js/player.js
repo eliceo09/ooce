@@ -39,16 +39,16 @@ window.addEventListener("load", () => {
 // --- Reproductor ---
 const songs = [
   {
-    title: "estas canciones me recuerdan a ti",
-    file: "./music/been.mp3",
+    title: "tengo mis formas de decirte las cosas",
+    file: "./music/Oye Mi Amor - Maná.mp3",
   },
   {
-    title: "esta t la dedico a ti",
-    file: "./music/a kiss.mp3",
+    title: "esta te la dedico a ti",
+    file: "./music/san lucas.mp3",
   },
   {
     title: "esta siempre me recuerda esa tarde en manantial",
-    file: "./music/love.mp3",
+    file: "./music/sin ti.mp3",
   },
 ];
 
