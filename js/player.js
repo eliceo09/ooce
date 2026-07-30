@@ -47,7 +47,7 @@ const songs = [
     file: "./music/san lucas.mp3",
   },
   {
-    title: "esta siempre me recuerda esa tarde en manantial",
+    title: "sin ti",
     file: "./music/sin ti.mp3",
   },
 ];
