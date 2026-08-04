@@ -39,16 +39,16 @@ window.addEventListener("load", () => {
 // --- Reproductor ---
 const songs = [
   {
-    title: "tengo mis formas de decirte las cosas",
-    file: "./music/Oye Mi Amor - Maná.mp3",
+    title: "I act stupid when I love you.",
+    file: "./music/stupid.mp3",
   },
   {
-    title: "esta te la dedico a ti",
-    file: "./music/san lucas.mp3",
+    title: "❤️",
+    file: "./music/moon.mp3",
   },
   {
-    title: "sin ti",
-    file: "./music/sin ti.mp3",
+    title: "You are my only true love.",
+    file: "./music/only.mp3",
   },
 ];
 
